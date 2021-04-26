@@ -1,2 +1,2 @@
 # cis1051
-Here is where the work for my final project will be stored.
+For my project I am creating my own verison of a pacman type game. 
