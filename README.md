@@ -1,2 +1,7 @@
 # cis1051
-For my project I am creating my own verison of a pacman type game. 
+Sabrina Huttie 
+
+
+For my final project I made a game called "pythman". It is a game that combines pacman and snake. 
+
+
